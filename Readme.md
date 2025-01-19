@@ -41,6 +41,7 @@ A web application where users can report lost or found items. Built with React, 
 
 ## Folder Structure
 how to add this in the readme file : 
+ ```bash
 /lost-and-found-app
 │
 ├── /public
@@ -87,6 +88,7 @@ how to add this in the readme file :
 │
 ├── package.json               (Project dependencies and scripts)
 └── .gitignore                 (Git ignore file)
+```
 
 ## Contributing
 If you want to contribute to this project, please fork the repository, create a branch, and submit a pull request with your changes. Contributions are always welcome!
