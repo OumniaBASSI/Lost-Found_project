@@ -2,6 +2,11 @@
 
 A web application where users can report lost or found items. Built with React, Redux, and Bootstrap to provide a smooth and responsive experience.
 
+## Prototype
+    ```bash
+    https://www.figma.com/proto/cpgliUamAGLkj1IG89OqcY/Untitled?page-id=0%3A1&node-id=4-6&p=f&viewport=-1593%2C415%2C0.77&t=RRRbLAqBxf5x9qvp-1&scaling=contain&content-scaling=fixed
+    ```
+
 ## Features
 - Users can search for lost or found items.
 - Users can view detailed information about items.
